@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-app-demo/first-app-demo.iml" filepath="$PROJECT_DIR$/first-app-demo/first-app-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud-feign/springCloud-eureka-feign.iml" filepath="$PROJECT_DIR$/springCloud-feign/springCloud-eureka-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudService/springCloudService.iml" filepath="$PROJECT_DIR$/springCloudService/springCloudService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka/springcloud-eureka.iml" filepath="$PROJECT_DIR$/springcloud-eureka/springcloud-eureka.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/first-app-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/weather-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/weather-services-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/msa-weather-collctiion-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springCloudService/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="first-app-demo" />
+        <module name="springcloud-eureka" />
+        <module name="springcloud-eureka (1)" />
+        <module name="springCloud-eureka-feign" />
+        <module name="springCloudService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Eureka" target="1.8" />
+      <module name="first-app-demo" target="1.8" />
+      <module name="first-app-demo (1)" target="1.8" />
+      <module name="msa-weather-collection-server" target="1.8" />
+      <module name="springcloud-eureka" target="1.8" />
+      <module name="springcloud-eureka (1)" target="1.8" />
+      <module name="springCloud-eureka-feign" target="1.8" />
+      <module name="springCloudService" target="1.8" />
+      <module name="weather-services-controller" target="1.8" />
+      <module name="weatherparent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
